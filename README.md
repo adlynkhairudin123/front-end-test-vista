@@ -62,3 +62,12 @@ SUMMARY:-
 2. can run frontend with:
 - flutter pub get
 - flutter run -d chrome --dart-define=API_BASE=http://localhost:3000
+
+RESULT:
+<img width="1911" height="955" alt="image" src="https://github.com/user-attachments/assets/e34443d1-a2b5-4436-b118-00bcbe27b475" />
+<img width="1912" height="953" alt="image" src="https://github.com/user-attachments/assets/dd93d411-224e-4f8e-8557-2d2a80a72714" />
+<img width="1917" height="949" alt="image" src="https://github.com/user-attachments/assets/b7ff383c-1523-46ac-9490-e3a2b8b4fa7f" />
+<img width="1915" height="955" alt="image" src="https://github.com/user-attachments/assets/60c25c0b-8cd2-482c-b754-9aff3b58f6fe" />
+
+
+
